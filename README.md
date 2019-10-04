@@ -2,6 +2,12 @@
 
 A collection of catalogued media streams to be played with the [streamlib](https://github.com/streamlib/streamlib) meta-player
 
+## Structure
+
+All library TOML files are located under the [library](library) directory.
+
+Utility scripts can be found in the [utils](utils) directory.
+
 ## Library Specification
 
 Streamlib library files are nothing more than [TOML](https://github.com/toml-lang/toml) files which adhere to the following specification, given by example:
@@ -26,4 +32,3 @@ All the other keys are used for indexing and querying upon playback, but are ess
 
 Further fields might be added later on to the specification.
 
-Currently all library TOML files are located under the [library](library) directory.
