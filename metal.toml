@@ -1,0 +1,119 @@
+[bulldogs-radio]
+name = "Bulldogs-Radio"
+url = "http://us4.internet-radio.com:8062/listen.pls"
+
+[idobi-howl]
+name = "idobi Howl"
+url = "http://69.46.88.26:80/listen.pls"
+
+[metal-express-radio]
+name = "Metal Express Radio"
+url = "http://5.135.154.69:11590/listen.pls
+
+[xxxrock-fm]
+name = "xxxRock.fm"
+url = "http://23.29.71.154:8140/listen.pls"
+
+[chronix-metalcore]
+name = "Chronix Metalcore"
+url = "http://192.95.18.39:5508/listen.pls"
+
+[knac]
+name = "KNAC"
+url = "http://198.178.123.14:7346/listen.pls"
+
+[epic-rock-radio]
+name = "Epic Rock Radio"
+url = "http://158.69.38.194:8734/listen.pls"
+
+[wild-rock-radio]
+name = "Wild Rock Radio"
+url = "http://64.150.176.87:8287/listen.pls&t=.pls"
+
+[bear-metal-radio]
+name = "Bear Metal Radio"
+url = "http://62.75.215.7:8048/listen.pls"
+
+[aardschok-radio]
+name = "Aardschok Radio"
+url = "http://178.18.137.248:80/listen.pls"
+
+[metal-nation-radio]
+name = "Metal Nation Radio"
+url = "http://198.100.145.185:8900/listen.pls"
+
+[metalrock-fm]
+name = "MetalRock.FM"
+url = "http://158.69.38.194:8963/listen.pls"
+
+[classic-metal-radio]
+name = "Classic Metal Radio"
+url = "http://158.69.38.194:8188/listen.pls"
+
+[big-hair-radio]
+name = "Big Hair Radio"
+url = "http://192.111.140.11:8508/listen.pls"
+
+[hand-of-doom-radio]
+name = "Hand of Doom Radio"
+url = "http://158.69.114.190:8042/listen.pls"
+
+[metal-devastation-radio]
+name = "Metal Devastation Radio"
+url = "http://188.40.32.140:8061/listen.pls"
+
+[decennial-gothica-radio]
+name = "Decennial Gothica Radio
+url = "http://23.29.71.154:8024/listen.pls"
+
+[hard-rock-hell-radio]
+name = "Hard Rock Hell Radio"
+url = "http://37.187.79.93:9254/listen.pls"
+
+[the-metal-plague]
+name = "The Metal Plague"
+url = "http://142.4.217.133:8386/listen.pls"
+
+[death-fm]
+name = "Death.FM"
+url = "http://209.9.229.211:80/listen.pls"
+
+[metal-live-radio]
+name = "Metal Live Radio"
+url = "http://51.255.8.139:8738/listen.pls?"
+
+[pure-rock-radio]
+name = "Pure Rock Radio"
+url = "http://144.217.203.184:8429/listen.pls"
+
+[pagan-metal-radio]
+name = "Pagan Metal Radio"
+url = "http://62.210.209.179:8030/listen.pls"
+
+[rockworld24]
+name = "RockWorld24"
+url = "http://eu7.fastcast4u.com:6249/listen.pls"
+
+[fuel-radio]
+name = "Fuel Radio"
+url = "http://38.135.36.125:7859/listen.pls"
+
+[prog-palace-radio]
+name = "Prog Palace Radio"
+url = "http://69.162.103.66:8121/listen.pls"
+
+[nuclear-rock-radio]
+name = "Nuclear Rock Radio"
+url = "http://83.170.76.46:8048/listen.pls"
+
+[that-metal-station]
+name = "That Metal Station"
+url = "http://91.121.164.210:8228/listen.pls"
+
+[the-drive]
+name = "The Drive"
+url = "http://198.100.145.187:16562/listen.pls"
+
+[sftd-radio]
+name = "SFTD Radio"
+url = "http://176.9.43.216:8491/listen.pls"
