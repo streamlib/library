@@ -8,7 +8,7 @@ url = "http://69.46.88.26:80/listen.pls"
 
 [metal-express-radio]
 name = "Metal Express Radio"
-url = "http://5.135.154.69:11590/listen.pls
+url = "http://5.135.154.69:11590/listen.pls"
 
 [xxxrock-fm]
 name = "xxxRock.fm"
@@ -28,7 +28,7 @@ url = "http://158.69.38.194:8734/listen.pls"
 
 [wild-rock-radio]
 name = "Wild Rock Radio"
-url = "http://64.150.176.87:8287/listen.pls&t=.pls"
+url = "http://64.150.176.87:8287/listen.pls"
 
 [bear-metal-radio]
 name = "Bear Metal Radio"
@@ -63,7 +63,7 @@ name = "Metal Devastation Radio"
 url = "http://188.40.32.140:8061/listen.pls"
 
 [decennial-gothica-radio]
-name = "Decennial Gothica Radio
+name = "Decennial Gothica Radio"
 url = "http://23.29.71.154:8024/listen.pls"
 
 [hard-rock-hell-radio]
@@ -80,7 +80,7 @@ url = "http://209.9.229.211:80/listen.pls"
 
 [metal-live-radio]
 name = "Metal Live Radio"
-url = "http://51.255.8.139:8738/listen.pls?"
+url = "http://51.255.8.139:8738/listen.pls"
 
 [pure-rock-radio]
 name = "Pure Rock Radio"
