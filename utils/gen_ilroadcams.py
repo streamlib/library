@@ -37,5 +37,5 @@ class GenerateILCams():
 
 
 if __name__ == "__main__":
-    somafm = GenerateILCams()
-    somafm.generate(sys.argv[1])
+    ilcams = GenerateILCams()
+    ilcams.generate(sys.argv[1])
