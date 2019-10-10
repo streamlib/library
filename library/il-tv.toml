@@ -21,6 +21,15 @@ url = "https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m
     regex = 'hdnea=([^"]*)'
     # json = 'tickets.0.ticket' # json includes redundant "hdnea=" prefix
 
+[arutz24]
+name = "Keshet Channel 24"
+url = "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8"
+
+    [[arutz24.query]]
+    name = "hdnea"
+    url = "https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/i/24live_1@195271/master.m3u8&rv=AKAMAI"
+    regex = 'hdnea=([^"]*)'
+
 [knesset]
 name = "Knesset Channel 99"
 url = "https://w1.013.gostreaming.tv/Knesset/myStream/playlist.m3u8"
