@@ -18,7 +18,6 @@ name = "Groove Salad"
 description = "A nicely chilled plate of ambient/downtempo beats and grooves"
 url = "http://somafm.com/groovesalad.pls"
 tags = ["somafm", "radio", "ambient", "groove"]
-http_header = "User-Agent: foo"
 ```
 
 The only real requirement in a streamlib file is to have one or more top-level tables which at bare minimum includes a `url` key:
@@ -31,6 +30,19 @@ url = "http://somafm.com/secretagent.pls"
 All the other keys are used for indexing and querying upon playback, but are essentially optional.
 
 Further fields might be added later on to the specification.
+
+### HTTP Headers
+
+In case the streaming server requires them, custom HTTP headers can be set with the following syntax:
+
+```toml
+[some-stream]
+name = "Example stream"
+url = "http://example.com/music.pls"
+http_headers = ["User-Agent: your-custom-user-agent", "Foo: goo"]
+```
+
+Custom HTTP headers are only supported with the default and recommended `mpv` player.
 
 ### Queries
 
