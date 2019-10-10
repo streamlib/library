@@ -1,6 +1,6 @@
 # Streamlib Library
 
-A collection of catalogued media streams to be played with the [streamlib](https://github.com/streamlib/streamlib) meta-player
+A collection of curated media streams to be played with the [streamlib](https://github.com/streamlib/streamlib) CLI.
 
 ## Structure
 
