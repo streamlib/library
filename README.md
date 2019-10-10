@@ -2,6 +2,8 @@
 
 A collection of curated media streams to be played with the [streamlib](https://github.com/streamlib/streamlib) CLI.
 
+**Feel free to open a pull request and add your favorite streams!**
+
 ## Structure
 
 All library TOML files are located under the [library](library) directory.
