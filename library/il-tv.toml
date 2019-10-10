@@ -29,6 +29,7 @@ url = "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8"
     name = "hdnea"
     url = "https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/i/24live_1@195271/master.m3u8&rv=AKAMAI"
     regex = 'hdnea=([^"]*)'
+    # json = 'tickets.0.ticket'
 
 [knesset]
 name = "Knesset Channel 99"
