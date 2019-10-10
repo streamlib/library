@@ -60,3 +60,16 @@ The final value will be added to the stream URL as a query argument `token`, yie
 Note that multiple query values can be provided if neccesary.
 
 This specification should support most dynamic token generation services, but further feedback would be much appreciated on this subject.
+
+### SMIL
+
+Streams that require CDN tokens generated through an SMIL XML are supported by setting `smil = true`:
+
+```toml
+[smil-stream]
+name = "Example SMIL stream"
+url = "http://example.com/stream/metadata.xml"
+smil = true
+```
+
+The highest quality stream will be chosen from the highest priority CDN server.
