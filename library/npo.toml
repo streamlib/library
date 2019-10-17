@@ -1,0 +1,35 @@
+[Radio1]
+name = "NPO Radio 1"
+idescription = "Dutch public radio - News, current affairs and sports coverage"
+url = "http://icecast.omroep.nl/radio1-bb-mp3"
+tags = ["radio"]
+
+[Radio2]
+name = "NPO Radio 2"
+description = "Dutch public radio - Pop music from the 1980s and 1990s (1960s and 1970s hits may also air)"
+url = "http://icecast.omroep.nl/radio2-bb-mp3"
+tags = ["radio"]
+
+[3FM]
+name = "NPO 3FM"
+description = "Dutch public radio - Pop, rock and dance music for a youth audience"
+url = "http://icecast.omroep.nl/3fm-bb-mp3"
+tags = ["radio"]
+
+[Radio4]
+name = "NPO Radio 4"
+description = "Dutch public radio - Classical music"
+url = "http://icecast.omroep.nl/radio4-bb-mp3"
+tags = ["radio"]
+
+[Radio5]
+name = "NPO Radio 5"
+description = "Dutch public radio - Pop music from the 1960s to 1980s"
+url = "http://icecast.omroep.nl/radio5-bb-mp3"
+tags = ["radio"]
+
+[FunX]
+name = "FunX"
+description = "Dutch public radio -  urban and ethnic music for a young audience. Run as a collaboration with local public radio foundations in Amsterdam, Utrecht, The Hague and Rotterdam. Programmes are made by the station (as opposed to the national member system), but is funded by Netherlands Public Broadcasting and takes NOS news bulletins."
+url = "http://icecast.omroep.nl/funx-bb-mp3"
+tags = ["radio"]
