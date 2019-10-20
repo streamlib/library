@@ -18,3 +18,19 @@ url = "http://62.219.45.26:130/mjpg/video.mjpg"
 [herzeliya-marina-main]
 name = "Herzeliya Marina Main"
 url = "http://62.219.45.26:140/mjpg/video.mjpg"
+
+[tlv-muni-gordon]
+name = "Tel Aviv Muni Gordon"
+url = "https://cdn.mainstreaming.tv/live/101468/VflFjv8/playlist.m3u8"
+
+[tlv-muni-shoreline]
+name = "Tel Aviv Muni Shoreline"
+url = "https://cdn.mainstreaming.tv/live/324179/EkZ5WSw/playlist.m3u8"
+
+[tlv-muni-dolphinarium]
+name = "Tel Aviv Muni Dolphinarium"
+url = "https://cdn.mainstreaming.tv/live/324225/8KyLdCd/playlist.m3u8"
+
+[tlv-muni-jaffa]
+name = "Tel Aviv Muni Jaffa"
+url = "https://cdn.mainstreaming.tv/live/324224/xhyk08w/playlist.m3u8"
