@@ -1,0 +1,20 @@
+[tlv-beach-gordon]
+name = "Tel Aviv Gordon Beach"
+url = "https://edge01.balticlivecam.com/blc/Israel1/index.m3u8"
+
+  [[tlv-beach-gordon.query]]
+  name = "token"
+  url = "https://balticlivecam.com/wp-admin/admin-ajax.php?action=auth_token&id=4487"
+  regex = "token=([^']+)"
+
+[herzeliya-marina-south]
+name = "Herzeliya Marina South"
+url = "http://62.219.45.26:120/mjpg/video.mjpg"
+
+[herzeliya-marina-north]
+name = "Herzeliya Marina North"
+url = "http://62.219.45.26:130/mjpg/video.mjpg"
+
+[herzeliya-marina-main]
+name = "Herzeliya Marina Main"
+url = "http://62.219.45.26:140/mjpg/video.mjpg"
