@@ -1,6 +1,6 @@
 [kan11]
 name = "Kan Channel 11"
-url = "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8"
+url = "https://kanlivep2event-i.akamaihd.net/hls/live/747610-b/747610/source1_2.5k/chunklist.m3u8"
 
 [kan-hinuhit]
 name = "Kan Hinuhit"
