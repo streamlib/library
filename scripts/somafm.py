@@ -1,36 +1,24 @@
-import json
-import sys
-import urllib3
+import requests
 
-CHANNELS_JSON = "https://api.somafm.com/channels.json"
+from base import GenerateBase
 
 
-class GenerateSomaFM:
-    def generate(self, output):
-        self.get_channels()
-        self.save(output)
+class GenerateSomaFM(GenerateBase):
 
-    def get_channels(self):
-        http = urllib3.PoolManager()
-        r = http.request("GET", CHANNELS_JSON)
-        self.channels = json.loads(r.data.decode("utf-8"))["channels"]
+    OUTPUT_TOML = "somafm.toml"
+    CHANNELS_JSON = "https://api.somafm.com/channels.json"
 
-    def channel_to_toml(self, channel):
-        return f"""[{channel["id"]}]
-        name = "{channel["title"]}"
-        description = "{channel["description"]}"
-        url = "{channel["playlists"][0]["url"]}"
-        tags = ["radio", "somafm"]\n
-        """.replace(
-            "    ", ""
-        )
+    def get(self):
+        res = requests.get(self.CHANNELS_JSON)
+        return {c["id"]: self.gen_channel(c) for c in res.json()["channels"]}
 
-    def save(self, output):
-        with open(output, "w") as f:
-            for chan in self.channels:
-                toml = self.channel_to_toml(chan)
-                f.write(toml)
-
+    def gen_channel(self, c):
+        return {
+            "name": c["title"],
+            "description": c["description"],
+            "url": c["playlists"][0]["url"],
+            "tags": ["radio", "somafm"]
+        }
 
 if __name__ == "__main__":
     somafm = GenerateSomaFM()
