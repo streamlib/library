@@ -4,11 +4,23 @@ import urllib3
 
 BASE_FEED_URL = "https://www.liveatc.net/feedindex.php"
 
-FEED_TYPES = ["class-b", "class-c", "class-d", "us-artcc", "canada", "international-eu", "international-oc", "international-as", "international-sa", "international-na", "international-af", "hf"]
+FEED_TYPES = [
+    "class-b",
+    "class-c",
+    "class-d",
+    "us-artcc",
+    "canada",
+    "international-eu",
+    "international-oc",
+    "international-as",
+    "international-sa",
+    "international-na",
+    "international-af",
+    "hf",
+]
 
 
-class GenerateLiveATC():
-
+class GenerateLiveATC:
     def __init__(self):
         self.feeds = {}
 
@@ -20,9 +32,13 @@ class GenerateLiveATC():
         http = urllib3.PoolManager()
         for feed in FEED_TYPES:
             print(feed)
-            r = http.request("GET", BASE_FEED_URL, fields={
-                "type": feed,
-            })
+            r = http.request(
+                "GET",
+                BASE_FEED_URL,
+                fields={
+                    "type": feed,
+                },
+            )
             res = r.data.decode("utf-8")
             pattern = r"""<a onClick="myDirectStream\('([^\)]*)'\)">([^<]*)<\/a>"""
             matches = re.findall(pattern, res)
@@ -35,10 +51,12 @@ class GenerateLiveATC():
         name = "{name}"
         url = "{url}"
         tags = ["liveatc", "atc"]\n
-        """.replace("    ", "")
+        """.replace(
+            "    ", ""
+        )
 
     def save(self, output):
-        with open(output, 'w') as f:
+        with open(output, "w") as f:
             for id, name in self.feeds.items():
                 toml = self.channel_to_toml(id, name)
                 f.write(toml)

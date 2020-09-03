@@ -5,8 +5,7 @@ import urllib3
 CHANNELS_JSON = "https://api.somafm.com/channels.json"
 
 
-class GenerateSomaFM():
-
+class GenerateSomaFM:
     def generate(self, output):
         self.get_channels()
         self.save(output)
@@ -22,10 +21,12 @@ class GenerateSomaFM():
         description = "{channel["description"]}"
         url = "{channel["playlists"][0]["url"]}"
         tags = ["radio", "somafm"]\n
-        """.replace("    ", "")
+        """.replace(
+            "    ", ""
+        )
 
     def save(self, output):
-        with open(output, 'w') as f:
+        with open(output, "w") as f:
             for chan in self.channels:
                 toml = self.channel_to_toml(chan)
                 f.write(toml)
