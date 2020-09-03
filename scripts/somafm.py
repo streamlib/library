@@ -5,7 +5,7 @@ from base import GenerateBase
 
 class GenerateSomaFM(GenerateBase):
 
-    OUTPUT_TOML = "somafm.toml"
+    NAME = "somafm"
     CHANNELS_JSON = "https://api.somafm.com/channels.json"
 
     def get(self):

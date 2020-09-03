@@ -1,49 +1,40 @@
 import re
-import sys
-import urllib3
+import requests
 
-BASE_FEED_URL = "https://www.liveatc.net/feedindex.php"
+from bs4 import BeautifulSoup
+from base import GenerateBase
 
 FEED_TYPES = [
-    "class-b",
-    "class-c",
-    "class-d",
-    "us-artcc",
-    "canada",
-    "international-eu",
-    "international-oc",
-    "international-as",
-    "international-sa",
-    "international-na",
+    # "class-b",
+    # "class-c",
+    # "class-d",
+    # "us-artcc",
+    # "canada",
+    # "international-eu",
+    # "international-oc",
+    # "international-as",
+    # "international-sa",
+    # "international-na",
     "international-af",
     "hf",
 ]
 
 
-class GenerateLiveATC:
-    def __init__(self):
-        self.feeds = {}
+class GenerateLiveATC(GenerateBase):
 
-    def generate(self, output):
-        self.get_feeds()
-        self.save(output)
+    NAME = "liveatc"
+    BASE_FEED_URL = "https://www.liveatc.net/feedindex.php"
 
-    def get_feeds(self):
-        http = urllib3.PoolManager()
+    def get(self):
         for feed in FEED_TYPES:
             print(feed)
-            r = http.request(
-                "GET",
-                BASE_FEED_URL,
-                fields={
-                    "type": feed,
-                },
-            )
-            res = r.data.decode("utf-8")
-            pattern = r"""<a onClick="myDirectStream\('([^\)]*)'\)">([^<]*)<\/a>"""
-            matches = re.findall(pattern, res)
-            feeds = {k: v for k, v in matches}
-            self.feeds.update(feeds)
+            res = requests.get(self.BASE_FEED_URL, params={"type": feed})
+            soup = BeautifulSoup(res.content)
+            print(soup.prettify())
+            # pattern = r"""<a onClick="myDirectStream\('([^\)]*)'\)">([^<]*)<\/a>"""
+            # matches = re.findall(pattern, res)
+            # feeds = {k: v for k, v in matches}
+            # self.feeds.update(feeds)
 
     def channel_to_toml(self, id, name):
         url = f"https://www.liveatc.net/play/{id}.pls"

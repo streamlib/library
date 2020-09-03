@@ -12,8 +12,8 @@ class GenerateBase:
         self.lib_path = (Path(__file__).parents[1] / "library").resolve()
 
     @property
-    def OUTPUT_TOML(self):
-        raise NotImplementedError("Subclass must define an OUTPUT_TOML constant value")
+    def NAME(self):
+        raise NotImplementedError("Subclass must define a canonical constant value NAME")
 
     def get(self):
         """
@@ -23,6 +23,6 @@ class GenerateBase:
 
     def generate(self):
         feeds = self.get()
-        print(self.lib_path / self.OUTPUT_TOML)
-        with open(self.lib_path / self.OUTPUT_TOML, "w") as f:
+        output = f"{self.NAME}.toml"
+        with open(self.lib_path / output, "w") as f:
             toml.dump(feeds, f)
