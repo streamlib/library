@@ -14,7 +14,9 @@ class GenerateBase:
 
     @property
     def NAME(self):
-        raise NotImplementedError("Subclass must define a canonical constant value NAME")
+        raise NotImplementedError(
+            "Subclass must define a canonical constant value NAME"
+        )
 
     def get(self):
         """

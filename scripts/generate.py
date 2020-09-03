@@ -17,6 +17,5 @@ def generate(name):
         print(f"Cannot find generator module {name}")
 
 
-
 if __name__ == "__main__":
     generate(sys.argv[1])

@@ -17,5 +17,5 @@ class GenerateSomaFM(GenerateBase):
             "name": c["title"],
             "description": c["description"],
             "url": c["playlists"][0]["url"],
-            "tags": ["radio", "somafm"]
+            "tags": ["radio", "somafm"],
         }
