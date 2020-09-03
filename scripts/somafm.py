@@ -19,7 +19,3 @@ class GenerateSomaFM(GenerateBase):
             "url": c["playlists"][0]["url"],
             "tags": ["radio", "somafm"]
         }
-
-if __name__ == "__main__":
-    somafm = GenerateSomaFM()
-    somafm.generate(sys.argv[1])
