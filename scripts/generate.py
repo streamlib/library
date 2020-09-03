@@ -1,15 +1,21 @@
+import inspect
 import sys
 
-from somafm import GenerateSomaFM
-from liveatc import GenerateLiveATC
 
 def generate(name):
-    if name == "somafm":
-        GenerateSomaFM().generate()
-    elif name == "liveatc":
-        GenerateLiveATC().generate()
-    else:
-        print(f"Unknown script {name}")
+    try:
+        mod = __import__(name)
+        members = inspect.getmembers(mod)
+        for _name, member in members:
+            if getattr(member, "NAME", None) == name:
+                print(f"Invoking {name} with module {member}")
+                member().generate()
+                break
+        else:
+            print(f"Cannot find generator named class in module {name}")
+    except ModuleNotFoundError:
+        print(f"Cannot find generator module {name}")
+
 
 
 if __name__ == "__main__":
