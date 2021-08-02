@@ -1,520 +1,520 @@
-[modiinindustry]
-url = "https://5c328052cb7f5.streamlock.net/live/MODIININDUSTRY.stream/playlist.m3u8"
+[evlaim]
+url = "https://5d8c50e7b358f.streamlock.net/live/EVLAIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[ohalim]
-url = "https://5c328052cb7f5.streamlock.net/live/OHALIM.stream/playlist.m3u8"
+[olga]
+url = "https://5d8c50e7b358f.streamlock.net/live/OLGA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [ofakim]
-url = "https://5c328052cb7f5.streamlock.net/live/OFAKIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/OFAKIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[orakiva]
-url = "https://5c328052cb7f5.streamlock.net/live/ORAKIVA.stream/playlist.m3u8"
+[orakivakvish2]
+url = "https://5d8c50e7b358f.streamlock.net/live/ORAKIVAKVISH2.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[achihod]
-url = "https://5c328052cb7f5.streamlock.net/live/ACHIHOD.stream/playlist.m3u8"
+[orakivakvish4]
+url = "https://5d8c50e7b358f.streamlock.net/live/ORAKIVAKVISH4.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[ahisemech]
-url = "https://5c328052cb7f5.streamlock.net/live/AHISEMECH.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[alon]
-url = "https://5c328052cb7f5.streamlock.net/live/ALON.stream/playlist.m3u8"
+[macker]
+url = "https://5d8c50e7b358f.streamlock.net/live/MACKER.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [elishema]
-url = "https://5c328052cb7f5.streamlock.net/live/ELISHEMA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[elal]
-url = "https://5c328052cb7f5.streamlock.net/live/ELAL.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[alfeimenashe]
-url = "https://5c328052cb7f5.streamlock.net/live/ALFEIMENASHE.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[emhamoshavot]
-url = "https://5c328052cb7f5.streamlock.net/live/EMHAMOSHAVOT.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/ELISHEMA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [emunim]
-url = "https://5c328052cb7f5.streamlock.net/live/EMUNIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/EMUNIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [eshelhanasi]
-url = "https://5c328052cb7f5.streamlock.net/live/ESHELHANASI.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/ESHELHANASI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[beerganimprior]
-url = "https://5c328052cb7f5.streamlock.net/live/BEERGANIMPRIOR.stream/playlist.m3u8"
+[bethagedi]
+url = "https://5d8c50e7b358f.streamlock.net/live/BETHAGEDI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[bialikhadera]
-url = "https://5c328052cb7f5.streamlock.net/live/BIALIKHADERA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[beitdagan]
-url = "https://5c328052cb7f5.streamlock.net/live/BEITDAGAN.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[beityehoshua]
-url = "https://5c328052cb7f5.streamlock.net/live/BEITYEHOSHUA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[beitlid]
-url = "https://5c328052cb7f5.streamlock.net/live/BEITLID.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[beitraban]
-url = "https://5c328052cb7f5.streamlock.net/live/BEITRABAN.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[beitshemesh]
-url = "https://5c328052cb7f5.streamlock.net/live/BEITSHEMESH.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[binyamina]
-url = "https://5c328052cb7f5.streamlock.net/live/BINYAMINA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[baftistim]
-url = "https://5c328052cb7f5.streamlock.net/live/BAFTISTIM.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[batzra]
-url = "https://5c328052cb7f5.streamlock.net/live/BATZRA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[barilan]
-url = "https://5c328052cb7f5.streamlock.net/live/BARILAN.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[brachya]
-url = "https://5c328052cb7f5.streamlock.net/live/BRACHYA.stream/playlist.m3u8"
+[beitrimon]
+url = "https://5d8c50e7b358f.streamlock.net/live/BEITRIMON.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [gvulut]
-url = "https://5c328052cb7f5.streamlock.net/live/GVULUT.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GVULUT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [givatshmuel]
-url = "https://5c328052cb7f5.streamlock.net/live/GIVATSHMUEL.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GIVATSHMUEL.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [givati]
-url = "https://5c328052cb7f5.streamlock.net/live/GIVATI.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GIVATI.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[gedera]
+url = "https://5d8c50e7b358f.streamlock.net/live/GEDERA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [geha]
-url = "https://5c328052cb7f5.streamlock.net/live/GEHA.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GEHA.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[golani]
+url = "https://5d8c50e7b358f.streamlock.net/live/GOLANI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [goral]
-url = "https://5c328052cb7f5.streamlock.net/live/GORAL.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GORAL.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [gilolong]
-url = "https://5c328052cb7f5.streamlock.net/live/GILOLONG.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[giloshort]
-url = "https://5c328052cb7f5.streamlock.net/live/GILOSHORT.stream/playlist.m3u8"
+[gilat]
+url = "https://5d8c50e7b358f.streamlock.net/live/GILAT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [gimzo]
-url = "https://5c328052cb7f5.streamlock.net/live/GIMZO.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GIMZO.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[ginaton]
+url = "https://5d8c50e7b358f.streamlock.net/live/GINATON.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [gilam]
-url = "https://5c328052cb7f5.streamlock.net/live/GILAM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GILAM.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[gandarom]
+url = "https://5d8c50e7b358f.streamlock.net/live/GANDAROM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [ganyavne]
-url = "https://5c328052cb7f5.streamlock.net/live/GANYAVNE.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GANYAVNE.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[ganrave]
-url = "https://5c328052cb7f5.streamlock.net/live/GANRAVE.stream/playlist.m3u8"
+[ganot]
+url = "https://5d8c50e7b358f.streamlock.net/live/GANOT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [jiser]
-url = "https://5c328052cb7f5.streamlock.net/live/JISER.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/JISER.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [gesherhashalom]
-url = "https://5c328052cb7f5.streamlock.net/live/GESHERHASHALOM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/GESHERHASHALOM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [davrat]
-url = "https://5c328052cb7f5.streamlock.net/live/DAVRAT.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/DAVRAT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [dganyaroad57]
-url = "https://5c328052cb7f5.streamlock.net/live/DGANYAROAD57.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/DGANYAROAD57.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[dimona]
+url = "https://5d8c50e7b358f.streamlock.net/live/DIMONA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hadasim]
-url = "https://5c328052cb7f5.streamlock.net/live/HADASIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HADASIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hadarim]
-url = "https://5c328052cb7f5.streamlock.net/live/HADARIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HADARIM.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hakfarhayarok]
+url = "https://5d8c50e7b358f.streamlock.net/live/HAKFARHAYAROK.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hamovil]
-url = "https://5c328052cb7f5.streamlock.net/live/HAMOVIL.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HAMOVIL.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hamahtesh]
-url = "https://5c328052cb7f5.streamlock.net/live/HAMAHTESH.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HAMAHTESH.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hamelaha]
-url = "https://5c328052cb7f5.streamlock.net/live/HAMELAHA.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HAMELAHA.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hasira]
+url = "https://5d8c50e7b358f.streamlock.net/live/HASIRA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hasargel]
-url = "https://5c328052cb7f5.streamlock.net/live/HASARGEL.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HASARGEL.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [haogen]
-url = "https://5c328052cb7f5.streamlock.net/live/HAOGEN.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HAOGEN.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hakerach]
-url = "https://5c328052cb7f5.streamlock.net/live/HAKERACH.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HAKERACH.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hartuva]
+url = "https://5d8c50e7b358f.streamlock.net/live/HARTUVA.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hartuvb]
+url = "https://5d8c50e7b358f.streamlock.net/live/HARTUVB.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hertzeliaeastroad531]
-url = "https://5c328052cb7f5.streamlock.net/live/HERTZELIAEASTROAD531.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HERTZELIAEASTROAD531.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hashiva]
-url = "https://5c328052cb7f5.streamlock.net/live/HASHIVA.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HASHIVA.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hashomrim]
+url = "https://5d8c50e7b358f.streamlock.net/live/HASHOMRIM.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hatishbi]
+url = "https://5d8c50e7b358f.streamlock.net/live/HATISHBI.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[zvulun]
+url = "https://5d8c50e7b358f.streamlock.net/live/ZVULUN.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[zihronyaakovkvish2]
+url = "https://5d8c50e7b358f.streamlock.net/live/ZIHRONYAAKOVKVISH2.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [zichronyaakov]
-url = "https://5c328052cb7f5.streamlock.net/live/ZICHRONYAAKOV.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[zarzir]
-url = "https://5c328052cb7f5.streamlock.net/live/ZARZIR.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/ZICHRONYAAKOV.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [havatshaarhagy]
-url = "https://5c328052cb7f5.streamlock.net/live/HAVATSHAARHAGY.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[holot]
-url = "https://5c328052cb7f5.streamlock.net/live/HOLOT.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[horashim]
-url = "https://5c328052cb7f5.streamlock.net/live/HORASHIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HAVATSHAARHAGY.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hativa7]
-url = "https://5c328052cb7f5.streamlock.net/live/HATIVA7.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HATIVA7.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[hamed]
+url = "https://5d8c50e7b358f.streamlock.net/live/HAMED.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [henroad531]
-url = "https://5c328052cb7f5.streamlock.net/live/HENROAD531.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HENROAD531.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hefer]
-url = "https://5c328052cb7f5.streamlock.net/live/HEFER.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HEFER.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [hatzav]
-url = "https://5c328052cb7f5.streamlock.net/live/HATZAV.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/HATZAV.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[tchernikhovsky]
-url = "https://5c328052cb7f5.streamlock.net/live/TCHERNIKHOVSKY.stream/playlist.m3u8"
+[tayasim]
+url = "https://5d8c50e7b358f.streamlock.net/live/TAYASIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[yasif]
-url = "https://5c328052cb7f5.streamlock.net/live/YASIF.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[yavne]
-url = "https://5c328052cb7f5.streamlock.net/live/YAVNE.stream/playlist.m3u8"
+[yagur]
+url = "https://5d8c50e7b358f.streamlock.net/live/YAGUR.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [yagel]
-url = "https://5c328052cb7f5.streamlock.net/live/YAGEL.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/YAGEL.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[yadmordehi]
-url = "https://5c328052cb7f5.streamlock.net/live/YADMORDEHI.stream/playlist.m3u8"
+[yokneamilit]
+url = "https://5d8c50e7b358f.streamlock.net/live/YOKNEAMILIT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[yaarhedera]
-url = "https://5c328052cb7f5.streamlock.net/live/YAARHEDERA.stream/playlist.m3u8"
+[yishai]
+url = "https://5d8c50e7b358f.streamlock.net/live/YISHAI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[yarkon]
-url = "https://5c328052cb7f5.streamlock.net/live/YARKON.stream/playlist.m3u8"
+[karem]
+url = "https://5d8c50e7b358f.streamlock.net/live/KAREM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kabri]
-url = "https://5c328052cb7f5.streamlock.net/live/KABRI.stream/playlist.m3u8"
+[sataf]
+url = "https://5d8c50e7b358f.streamlock.net/live/SATAF.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kokhavyair]
-url = "https://5c328052cb7f5.streamlock.net/live/KOKHAVYAIR.stream/playlist.m3u8"
+[kfarbaruch]
+url = "https://5d8c50e7b358f.streamlock.net/live/KFARBARUCH.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kfarhroe]
-url = "https://5c328052cb7f5.streamlock.net/live/KFARHROE.stream/playlist.m3u8"
+[kfarhanasi]
+url = "https://5d8c50e7b358f.streamlock.net/live/KFARHANASI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kfarsabaeast]
-url = "https://5c328052cb7f5.streamlock.net/live/KFARSABAEAST.stream/playlist.m3u8"
+[kfarwarburg]
+url = "https://5d8c50e7b358f.streamlock.net/live/KFARWARBURG.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kfrakara]
-url = "https://5c328052cb7f5.streamlock.net/live/KFRAKARA.stream/playlist.m3u8"
+[kfarnahum]
+url = "https://5d8c50e7b358f.streamlock.net/live/KFARNAHUM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kfrashmariyahu]
-url = "https://5c328052cb7f5.streamlock.net/live/KFRASHMARIYAHU.stream/playlist.m3u8"
+[kareynaamannorth]
+url = "https://5d8c50e7b358f.streamlock.net/live/KAREYNAAMANNORTH.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kfartavor]
-url = "https://5c328052cb7f5.streamlock.net/live/KFARTAVOR.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[kareynaamansouth]
-url = "https://5c328052cb7f5.streamlock.net/live/KAREYNAAMANSOUTH.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[karmielwest]
-url = "https://5c328052cb7f5.streamlock.net/live/KARMIELWEST.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[karmielcenter]
-url = "https://5c328052cb7f5.streamlock.net/live/KARMIELCENTER.stream/playlist.m3u8"
+[karmieleast]
+url = "https://5d8c50e7b358f.streamlock.net/live/KARMIELEAST.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [lahavkvish6]
-url = "https://5c328052cb7f5.streamlock.net/live/LAHAVKVISH6.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/LAHAVKVISH6.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[lehavim]
+url = "https://5d8c50e7b358f.streamlock.net/live/LEHAVIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [lod]
-url = "https://5c328052cb7f5.streamlock.net/live/LOD.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/LOD.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[lapid]
-url = "https://5c328052cb7f5.streamlock.net/live/LAPID.stream/playlist.m3u8"
+[latrun]
+url = "https://5d8c50e7b358f.streamlock.net/live/LATRUN.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[maahazkvish6]
-url = "https://5c328052cb7f5.streamlock.net/live/MAAHAZKVISH6.stream/playlist.m3u8"
+[mevomodiim]
+url = "https://5d8c50e7b358f.streamlock.net/live/MEVOMODIIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[migdaltzedek]
-url = "https://5c328052cb7f5.streamlock.net/live/MIGDALTZEDEK.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[moran]
-url = "https://5c328052cb7f5.streamlock.net/live/MORAN.stream/playlist.m3u8"
+[megido]
+url = "https://5d8c50e7b358f.streamlock.net/live/MEGIDO.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [morasha]
-url = "https://5c328052cb7f5.streamlock.net/live/MORASHA.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/MORASHA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[mahanaim]
-url = "https://5c328052cb7f5.streamlock.net/live/MAHANAIM.stream/playlist.m3u8"
+[mazkretbatya]
+url = "https://5d8c50e7b358f.streamlock.net/live/MAZKRETBATYA.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[mahaneofer]
+url = "https://5d8c50e7b358f.streamlock.net/live/MAHANEOFER.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[mahaneamos]
+url = "https://5d8c50e7b358f.streamlock.net/live/MAHANEAMOS.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[meiami]
+url = "https://5d8c50e7b358f.streamlock.net/live/MEIAMI.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[mishoradumim]
+url = "https://5d8c50e7b358f.streamlock.net/live/MISHORADUMIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [macabimreut]
-url = "https://5c328052cb7f5.streamlock.net/live/MACABIMREUT.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/MACABIMREUT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[mesubim]
-url = "https://5c328052cb7f5.streamlock.net/live/MESUBIM.stream/playlist.m3u8"
+[malal]
+url = "https://5d8c50e7b358f.streamlock.net/live/MALAL.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[maaganmichael]
-url = "https://5c328052cb7f5.streamlock.net/live/MAAGANMICHAEL.stream/playlist.m3u8"
+[maon]
+url = "https://5d8c50e7b358f.streamlock.net/live/MAON.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[matzlih]
-url = "https://5c328052cb7f5.streamlock.net/live/MATZLIH.stream/playlist.m3u8"
+[meona]
+url = "https://5d8c50e7b358f.streamlock.net/live/MEONA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [mitzpemodiin]
-url = "https://5c328052cb7f5.streamlock.net/live/MITZPEMODIIN.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/MITZPEMODIIN.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [mitkanadam]
-url = "https://5c328052cb7f5.streamlock.net/live/MITKANADAM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/MITKANADAM.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[nablat]
+url = "https://5d8c50e7b358f.streamlock.net/live/NABLAT.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[nahalal]
+url = "https://5d8c50e7b358f.streamlock.net/live/NAHALAL.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[neveilan]
+url = "https://5d8c50e7b358f.streamlock.net/live/NEVEILAN.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[nofhagalilgovermentcenter]
+url = "https://5d8c50e7b358f.streamlock.net/live/NOFHAGALILGOVERMENTCENTER.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[nahalhaelaroad6]
+url = "https://5d8c50e7b358f.streamlock.net/live/NAHALHAELAROAD6.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [nahalhadera]
-url = "https://5c328052cb7f5.streamlock.net/live/NAHALHADERA.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/NAHALHADERA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[nahshonim]
-url = "https://5c328052cb7f5.streamlock.net/live/NAHSHONIM.stream/playlist.m3u8"
+[nahalshalvaroad6]
+url = "https://5d8c50e7b358f.streamlock.net/live/NAHALSHALVAROAD6.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[nitzanim]
-url = "https://5c328052cb7f5.streamlock.net/live/NITZANIM.stream/playlist.m3u8"
+[nahala]
+url = "https://5d8c50e7b358f.streamlock.net/live/NAHALA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[nirgalim]
-url = "https://5c328052cb7f5.streamlock.net/live/NIRGALIM.stream/playlist.m3u8"
+[nahshon]
+url = "https://5d8c50e7b358f.streamlock.net/live/NAHSHON.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[namalashdod]
-url = "https://5c328052cb7f5.streamlock.net/live/NAMALASHDOD.stream/playlist.m3u8"
+[nitzaneyoz]
+url = "https://5d8c50e7b358f.streamlock.net/live/NITZANEYOZ.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[natbag]
-url = "https://5c328052cb7f5.streamlock.net/live/NATBAG.stream/playlist.m3u8"
+[nirtzvi]
+url = "https://5d8c50e7b358f.streamlock.net/live/NIRTZVI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[netanya]
-url = "https://5c328052cb7f5.streamlock.net/live/NETANYA.stream/playlist.m3u8"
+[neora]
+url = "https://5d8c50e7b358f.streamlock.net/live/NEORA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[savion]
-url = "https://5c328052cb7f5.streamlock.net/live/SAVION.stream/playlist.m3u8"
+[omer]
+url = "https://5d8c50e7b358f.streamlock.net/live/OMER.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[sgula]
-url = "https://5c328052cb7f5.streamlock.net/live/SGULA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[silver]
-url = "https://5c328052cb7f5.streamlock.net/live/SILVER.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[sirkin]
-url = "https://5c328052cb7f5.streamlock.net/live/SIRKIN.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[adhalom]
-url = "https://5c328052cb7f5.streamlock.net/live/ADHALOM.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[adanim]
-url = "https://5c328052cb7f5.streamlock.net/live/ADANIM.stream/playlist.m3u8"
+[okefrehovot]
+url = "https://5d8c50e7b358f.streamlock.net/live/OKEFREHOVOT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [einhamifrtz]
-url = "https://5c328052cb7f5.streamlock.net/live/EINHAMIFRTZ.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/EINHAMIFRTZ.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [eron]
-url = "https://5c328052cb7f5.streamlock.net/live/ERON.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/ERON.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[amiad]
-url = "https://5c328052cb7f5.streamlock.net/live/AMIAD.stream/playlist.m3u8"
+[parkcaesarea]
+url = "https://5d8c50e7b358f.streamlock.net/live/PARKCAESAREA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[arara]
-url = "https://5c328052cb7f5.streamlock.net/live/ARARA.stream/playlist.m3u8"
+[parkbarlev]
+url = "https://5d8c50e7b358f.streamlock.net/live/PARKBARLEV.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[atlit]
-url = "https://5c328052cb7f5.streamlock.net/live/ATLIT.stream/playlist.m3u8"
+[poleg]
+url = "https://5d8c50e7b358f.streamlock.net/live/POLEG.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[parkafek]
-url = "https://5c328052cb7f5.streamlock.net/live/PARKAFEK.stream/playlist.m3u8"
+[faradis]
+url = "https://5d8c50e7b358f.streamlock.net/live/FARADIS.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[palyam]
-url = "https://5c328052cb7f5.streamlock.net/live/PALYAM.stream/playlist.m3u8"
+[plugot]
+url = "https://5d8c50e7b358f.streamlock.net/live/PLUGOT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[pardasia]
-url = "https://5c328052cb7f5.streamlock.net/live/PARDASIA.stream/playlist.m3u8"
+[komemiut]
+url = "https://5d8c50e7b358f.streamlock.net/live/KOMEMIUT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[tzrifin]
-url = "https://5c328052cb7f5.streamlock.net/live/TZRIFIN.stream/playlist.m3u8"
+[kastina]
+url = "https://5d8c50e7b358f.streamlock.net/live/KASTINA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kadarim]
-url = "https://5c328052cb7f5.streamlock.net/live/KADARIM.stream/playlist.m3u8"
+[kiryatgatroad40]
+url = "https://5d8c50e7b358f.streamlock.net/live/KIRYATGATROAD40.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[kiryatatasouth]
-url = "https://5c328052cb7f5.streamlock.net/live/KIRYATATASOUTH.stream/playlist.m3u8"
+[kiryatgatroad6]
+url = "https://5d8c50e7b358f.streamlock.net/live/KIRYATGATROAD6.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[reem]
-url = "https://5c328052cb7f5.streamlock.net/live/REEM.stream/playlist.m3u8"
+[kiryattivon]
+url = "https://5d8c50e7b358f.streamlock.net/live/KIRYATTIVON.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[regba]
-url = "https://5c328052cb7f5.streamlock.net/live/REGBA.stream/playlist.m3u8"
+[roshhaaineast]
+url = "https://5d8c50e7b358f.streamlock.net/live/ROSHHAAINEAST.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[rehovotwast]
-url = "https://5c328052cb7f5.streamlock.net/live/REHOVOTWAST.stream/playlist.m3u8"
+[roshhaayintrain]
+url = "https://5d8c50e7b358f.streamlock.net/live/ROSHHAAYINTRAIN.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[rinatya]
-url = "https://5c328052cb7f5.streamlock.net/live/RINATYA.stream/playlist.m3u8"
+[rishonlezion]
+url = "https://5d8c50e7b358f.streamlock.net/live/RISHONLEZION.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[ramot]
+url = "https://5d8c50e7b358f.streamlock.net/live/RAMOT.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[raananacenter]
+url = "https://5d8c50e7b358f.streamlock.net/live/RAANANACENTER.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [raanananorth]
-url = "https://5c328052cb7f5.streamlock.net/live/RAANANANORTH.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/RAANANANORTH.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[shoket]
-url = "https://5c328052cb7f5.streamlock.net/live/SHOKET.stream/playlist.m3u8"
+[sorek]
+url = "https://5d8c50e7b358f.streamlock.net/live/SOREK.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[shimshon]
-url = "https://5c328052cb7f5.streamlock.net/live/SHIMSHON.stream/playlist.m3u8"
+[shores]
+url = "https://5d8c50e7b358f.streamlock.net/live/SHORES.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[shilat]
+url = "https://5d8c50e7b358f.streamlock.net/live/SHILAT.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [shaalabim]
-url = "https://5c328052cb7f5.streamlock.net/live/SHAALABIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/SHAALABIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[shaarhanegev]
-url = "https://5c328052cb7f5.streamlock.net/live/SHAARHANEGEV.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[shaariya]
-url = "https://5c328052cb7f5.streamlock.net/live/SHAARIYA.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[shfeyah]
-url = "https://5c328052cb7f5.streamlock.net/live/SHFEYAH.stream/playlist.m3u8"
-tags = ["roadcams", "israel", "iroads"]
-
-[shfaim]
-url = "https://5c328052cb7f5.streamlock.net/live/SHFAIM.stream/playlist.m3u8"
+[shaarhagai]
+url = "https://5d8c50e7b358f.streamlock.net/live/SHAARHAGAI.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
 [shapirim]
-url = "https://5c328052cb7f5.streamlock.net/live/SHAPIRIM.stream/playlist.m3u8"
+url = "https://5d8c50e7b358f.streamlock.net/live/SHAPIRIM.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[sara]
-url = "https://5c328052cb7f5.streamlock.net/live/SARA.stream/playlist.m3u8"
+[telyosef]
+url = "https://5d8c50e7b358f.streamlock.net/live/TELYOSEF.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[telarad]
-url = "https://5c328052cb7f5.streamlock.net/live/TELARAD.stream/playlist.m3u8"
+[telmond]
+url = "https://5d8c50e7b358f.streamlock.net/live/TELMOND.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 
-[taabura]
-url = "https://5c328052cb7f5.streamlock.net/live/TAABURA.stream/playlist.m3u8"
+[teladashim]
+url = "https://5d8c50e7b358f.streamlock.net/live/TELADASHIM.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[tefen]
+url = "https://5d8c50e7b358f.streamlock.net/live/TEFEN.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "iroads"]
+
+[tikva]
+url = "https://5d8c50e7b358f.streamlock.net/live/TIKVA.stream/playlist.m3u8"
 tags = ["roadcams", "israel", "iroads"]
 

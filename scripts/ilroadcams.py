@@ -18,12 +18,12 @@ class GenerateILCams:
             fields={"tabName": "all-cameras", "itemsPerPage": "2000"},
         )
         res = r.data.decode("utf-8")
-        pattern = r"https://5c328052cb7f5.streamlock.net/live/([A-Z0-9]*).stream/playlist.m3u8"
+        pattern = r"https://5d8c50e7b358f.streamlock.net/live/([A-Z0-9]*).stream/playlist.m3u8"
         matches = re.findall(pattern, res)
         self.channels = matches
 
     def channel_to_toml(self, name):
-        url = f"https://5c328052cb7f5.streamlock.net/live/{name}.stream/playlist.m3u8"
+        url = f"https://5d8c50e7b358f.streamlock.net/live/{name}.stream/playlist.m3u8"
         return f"""[{name.lower()}]
         url = "{url}"
         tags = ["roadcams", "israel", "iroads"]\n
