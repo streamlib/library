@@ -1,0 +1,84 @@
+[hahalacha]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaHalacha.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[moses-bridge]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Moses-Bridge.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[wolfson-interchange]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Interchange.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[rabin]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rabin.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[yosseftal]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yosseftal.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[glilot-west]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-West.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[rokach-kakal]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[kakal]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[rokach]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[hashalom]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaShalom.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[mozes_gantry]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mozes_Gantry.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[arlozorov-sb]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Arlozorov-sb.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[beit_habiluim-west_end]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Beit_Habiluim-West_End.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[tel_giborim]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Tel_Giborim.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[holon_sw]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holon_SW.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[wolfson-dov_hoz]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Dov_Hoz.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[yafo_d]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yafo_D.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[hakomemiyot]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Hakomemiyot.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[yoseftal-dov_oz]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yoseftal-dov_oz.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[431-2]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/431-2.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
+[mosha_dayan]
+url = "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mosha_Dayan.stream/playlist.m3u8"
+tags = ["roadcams", "israel", "ayalon"]
+
